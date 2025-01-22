@@ -1,3 +1,3 @@
 export default function Pages() {
-    return "";
+    return "Halaman tidak ditemukan";
 }
